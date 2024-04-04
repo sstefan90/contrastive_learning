@@ -1,6 +1,6 @@
 ***Contrastive Learning for Skin Tone Aware Cancer Classification***
 
-Model performance was evaluated and stratified by skin tone of test examples. The International Skin Imaging Collaboration is an open-source dataset brought about with hopes of improving skin cancer classification through the joint effort of researchers in the community. While there are many high-quality microscope training data images, there are very few training data examples with darker skin tones. This project aims to see whether augmenting the data with meta-learning techniques, such as embeddings generated through contrastive learning, helps to improve classification precision and accuracy on darker skin tone examples. Meta-Learning techniques are known to improve model classification performance in low data regimes. 
+The International Skin Imaging Collaboration is an open-source dataset brought about with hopes of improving skin cancer classification through the joint effort of researchers in the community. While there are many high-quality microscope training data images, there are very few training data examples with darker skin tones. This project aims to see whether augmenting the data with meta-learning techniques, such as embeddings generated through contrastive learning, helps to improve classification precision and accuracy on darker skin tone examples. Meta-Learning techniques are known to improve model classification performance in low data regimes. 
 
 **Data Preprocessing and Skin Tone Classification**
 
