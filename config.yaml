@@ -1,0 +1,6 @@
+data_processing:
+  batch_size: 32
+  num_workers: 1
+
+other:
+  random_seed: 42
